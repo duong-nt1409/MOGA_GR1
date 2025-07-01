@@ -1,0 +1,11 @@
+../Core/Src/main.c:35:8:f1	4
+../Core/Src/main.c:46:8:f2	1
+../Core/Src/main.c:50:5:Dominance	5
+../Core/Src/main.c:57:8:euclidean	1
+../Core/Src/main.c:61:8:rand_double	1
+../Core/Src/main.c:66:5:main	16
+../Core/Src/main.c:141:5:__io_putchar	1
+../Core/Src/main.c:148:6:SystemClock_Config	4
+../Core/Src/main.c:182:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:198:13:MX_GPIO_Init	1
+../Core/Src/main.c:204:6:Error_Handler	1
